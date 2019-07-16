@@ -1,0 +1,14 @@
+.main {
+  padding: 20px;
+}
+
+.button-upload {
+  color: #fff !important;
+}
+
+.main-img {
+  display: block;
+  width: 70%;
+  margin:auto;
+  padding: 30px;
+}
